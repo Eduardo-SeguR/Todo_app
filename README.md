@@ -1,2 +1,2 @@
 # Todo_app
-Una aplicacion movil para regitrar tareas
+Una aplicacion movil para registrar tareas
